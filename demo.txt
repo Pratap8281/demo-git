@@ -1,3 +1,4 @@
 hi hello how are you?
 adding line for reset
 adding line for rename branch
+sample text
